@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Shraddha</h1>
 <h3 align="center">Developer</h3>
+<img align="right" alt="coding" width="400px" src="https://github.com/shraddha-reddy123/shraddha-reddy123/assets/151011691/5acbe5e8-10ee-4e14-b94b-0e842e1df849"
 
 - 🌱 I’m currently learning **Full stack java course**
 
